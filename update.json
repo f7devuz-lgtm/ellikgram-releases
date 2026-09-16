@@ -1,7 +1,7 @@
 {
-  "build": 38,
-  "version": "1.0.38",
-  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v38/ellikgram.apk",
-  "notes": "UI update\nUI update",
-  "min_build": 38
+  "build": 39,
+  "version": "1.0.39",
+  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v39/ellikgram.apk",
+  "notes": "Yaxshilanishlar va xatolar tuzatildi.",
+  "min_build": 39
 }
