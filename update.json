@@ -1,7 +1,7 @@
 {
-  "build": 36,
-  "version": "1.0.36",
-  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v36/ellikgram.apk",
-  "notes": "Imzo kaliti yaratildi [skip ci]",
-  "min_build": 36
+  "build": 37,
+  "version": "1.0.37",
+  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v37/ellikgram.apk",
+  "notes": "Yaxshilanishlar va xatolar tuzatildi.",
+  "min_build": 37
 }
