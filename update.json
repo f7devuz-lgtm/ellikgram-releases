@@ -1,7 +1,7 @@
 {
-  "build": 71,
-  "version": "1.0.71",
-  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v71/ellikgram.apk",
+  "build": 77,
+  "version": "1.0.77",
+  "apk": "https://github.com/f7devuz-lgtm/ellikgram-releases/releases/download/v77/ellikgram.apk",
   "notes": "Yaxshilanishlar va xatolar tuzatildi.",
-  "min_build": 73
+  "min_build": 77
 }
